@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Pacifico&display=swap');
+
+body{
+    background-color: rgb(188, 215, 226);
+}
+#mifan{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(110, 165, 212);
+    font-family: 'Abril Fatface', cursive;
+}
+
+#yo{
+    color: rgb(74, 97, 100);
+    font-family: 'Abril Fatface', cursive;
+    
+}
+ul{
+    list-style: none;
+    width: 100px;
+    margin: 20px;
+}
+
+ul li{
+    display: inline-block;
+
+}
+ img{
+     width: 300px;
+     height: 300px;
+     margin: 118px;
+
+ }
+
+ li:hover{ 
+     background-color: rgb(17, 42, 73);
+     font-size: 40px;
+     border-radius: 5px;
+
+ }
+ li a{
+     text-decoration: none;
+     color: aliceblue;
+ }
